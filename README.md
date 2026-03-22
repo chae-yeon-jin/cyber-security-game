@@ -29,4 +29,4 @@ The game follows a structured journey from gaining a foothold to establishing de
 * **Privilege Escalation:** Systematically upgrading from limited access to administrative rights.
 * **Data Exfiltration & Governance:** Unauthorized data transfer and the framework for protecting assets based on risk.
 
-Developed for the DBM5102 Digital Management (WS 2025/26) at HS Pforzheim.
+*Developed for the DBM5102 Digital Management (WS 2025/26) at HS Pforzheim.*
